@@ -1,4 +1,6 @@
-mtn_uganda
+m_ug
+
+
 ==============================
 
 Scoring MTN Uganda clients
