@@ -3,7 +3,8 @@ m_ug
 
 ==============================
 
-Scoring MTN Uganda clients
+Scoring n_ug
+
 
 Project Organization
 ------------
